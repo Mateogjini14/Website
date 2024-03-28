@@ -1,0 +1,90 @@
+
+@media screen and (min-width:2560px){
+    section{
+        width: 75vw;
+    }
+    .info{
+        height: 100vh;
+        padding-top:6vh;
+    }
+    .gifts{
+        width: 80vw;
+    }
+    .web{
+        margin-top: 9vh;
+        margin-left: 2vw;
+        width:  85%;
+    }
+ 
+    .image{
+        left:32vw;
+        height: 200vh;
+        clip-path: inset(0px 0px 5vh 0 round 0px);
+        
+    }
+    .image3{
+        left: 45vw;
+    }
+    .image1{
+        left: 43vw;
+
+    }
+    #inside{
+        top: 87%;
+        height: 21vw;
+    }
+    .pages{
+        height: 120vh;
+    }
+    .scrollImages :nth-child(1){
+        margin-top: -20vh;
+    }
+    .scrollImages :nth-child(2){
+        margin-top: -60vh;
+    }
+    .scrollImages :nth-child(3){
+        margin-top: -20vh;
+        margin-left: 82vw;
+    }
+    .scrollImages :nth-child(4){
+        margin-top: -50vh;
+    }
+    .scrollImages1 :nth-child(1){
+        margin-top: -20vh;
+    }
+    .scrollImages1 :nth-child(2){
+        margin-top: -60vh;
+    }
+    .scrollImages1 :nth-child(3){
+        margin-left: 83vw;
+        margin-top: -25vh;
+        display: initial;
+    }
+    #set{
+        margin-left: 73.5vw;
+        margin-top: -15vh;
+    }
+    #small{
+        margin-top: -45vh;
+    }
+    .card{
+        margin-top: 15vh;
+    }
+    .stuff3d{
+        margin-top: 5%;
+    }
+    
+}
+@media screen and (max-width:1920px){
+    .stuff3d{
+        margin-top: 10vh;
+    }
+
+    #set{
+        margin-left: 73.5vw;
+        margin-top: -30vh;
+    }
+    .scrollImages1 :nth-child(3){
+        margin-top: -40vh;
+    }
+}

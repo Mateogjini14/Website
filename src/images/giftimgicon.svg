@@ -1,0 +1,23 @@
+<svg width="210" height="210" viewBox="0 0 210 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_88_11)">
+<circle cx="105" cy="101" r="101" fill="#36F3DC"/>
+</g>
+<path d="M57.8353 76.9414H151.115C158.746 76.9414 164.951 83.1488 164.951 90.7838V102.05C164.951 105.619 162.035 108.537 158.467 108.537H50.4834C46.916 108.537 44 105.619 44 102.05V90.7838C44 83.1488 50.2042 76.9414 57.8353 76.9414V76.9414Z" stroke="white" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M57.835 108.506H152.914V140.412C152.914 152.299 143.267 161.951 131.386 161.951H79.3635C67.4825 161.951 57.835 152.299 57.835 140.412V108.506Z" stroke="white" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M104.46 78.3379V160.523" stroke="white" stroke-width="10" stroke-miterlimit="10"/>
+<path d="M104.459 76.9408C93.385 76.9408 74.7725 61.7327 74.7725 48.9766" stroke="white" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M105.359 76.9408C116.434 76.9408 135.046 61.7327 135.046 48.9766" stroke="white" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M104.088 41C108.834 41 112.712 44.7555 112.712 49.411C111.657 58.3496 108.741 66.9778 104.088 74.7681C99.4345 67.0089 96.5186 58.3496 95.4639 49.411C95.4639 44.7555 99.3105 41 104.088 41V41Z" stroke="white" stroke-width="10" stroke-miterlimit="10"/>
+<defs>
+<filter id="filter0_d_88_11" x="0" y="0" width="210" height="210" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_88_11"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_88_11" result="shape"/>
+</filter>
+</defs>
+</svg>
