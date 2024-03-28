@@ -1,9 +1,11 @@
 import { NavLink } from "react-router-dom";
 import Footer from "./Components/Footer";
+import Background from "./Components/Background";
 
 function Terms() {
     return (
         <>
+        <Background/>
             <div class="terms">
             <h1>Terms and Conditions FiberAL</h1>
             <p> 

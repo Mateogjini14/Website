@@ -7,6 +7,9 @@ body{
     width: 100vw;
 
 }
+.terms a{
+    color : rgb(54, 235, 214);
+}
 body h1{
 
     font-family: 'Poppins', sans-serif;
@@ -20,24 +23,29 @@ p{
     font-size: 1.5vw;
 }
 .terms ul{
-    margin: 50px;
+    margin: 30px;
     color: rgb(255, 255, 255);
     font-size: 1.5vw;
 }
 .terms li{
-    margin: 50px;
+    margin: 30px;
     color: rgb(255, 255, 255);
     font-size: 1.5vw;
 }
 .terms h2{
     padding-left: 40px;
-    font-size: 1.8vw;
+    font-size: 2vw;
+}
+.terms h1{
+    margin:2%; 
 }
 a{
     text-decoration: none;
     cursor: pointer;
 }
-
+.terms p {
+    margin-top: 0;
+}
 
 section{
     min-height: 100vh;
